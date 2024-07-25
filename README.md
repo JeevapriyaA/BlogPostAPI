@@ -11,7 +11,7 @@
 
 1. Clone the repository:
   
-   git clone https://github.com/yourusername/blog-management-app.git
+   git clone (https://github.com/JeevapriyaA/BlogPostAPI/tree/main)
    
    cd BlogPostAPI
 
